@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://MopicMP.github.io/better-requests-docs/index.html</loc><priority>1.0</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/requests-get.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/requests-post.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/requests-put.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/requests-delete.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/requests-patch.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/requests-head.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/requests-session.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/response-status-code.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/response-json.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/response-text.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/response-content.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/response-headers.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/response-cookies.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/response-raise-for-status.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/response-url.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/response-encoding.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/response-elapsed.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/requests-auth.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/requests-exceptions.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-requests-docs/requests-adapters.html</loc><priority>0.8</priority></url>
+</urlset>
